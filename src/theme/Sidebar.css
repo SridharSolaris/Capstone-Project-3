@@ -1,0 +1,20 @@
+/* Sidebar.css */
+ion-split-pane {
+    --split-pane-side-max-width: 280px;
+    /* Set the maximum width for the sidebar */
+}
+
+ion-list {
+    padding: 0;
+}
+
+ion-item {
+    padding-left: 16px;
+    /* Adjust the padding as needed */
+}
+
+/* Content.css */
+ion-router-outlet {
+    padding-left: 16px;
+    /* Adjust the padding as needed to create space for the sidebar */
+}

@@ -1,0 +1,7 @@
+{
+  "name": "NewsDen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
