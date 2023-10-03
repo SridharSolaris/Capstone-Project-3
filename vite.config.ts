@@ -9,6 +9,6 @@ export default defineConfig({
     legacy()
   ],
   build: {
-    chunkSizeWarningLimit: 1600,
+    chunkSizeWarningLimit: 100000000,
   },
 })
